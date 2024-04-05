@@ -36,7 +36,7 @@ function Header({scroll}) {
             <a href="#Courses" class="menu-link"
              
              >
-               Race
+               Game
              </a>
              
             </li>
