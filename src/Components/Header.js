@@ -36,7 +36,7 @@ function Header({scroll}) {
             <a href="#Courses" class="menu-link"
              
              >
-               Courses{Math.trunc(scrollY)}
+               Courses
              </a>
              
             </li>
